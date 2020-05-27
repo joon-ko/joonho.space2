@@ -1,0 +1,5 @@
+.projects-container {
+	width: calc(100% - 4em);
+	max-width: 800px;
+	margin: 8em 2em 0 2em;
+}
