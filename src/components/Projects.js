@@ -3,6 +3,15 @@ import "./Projects.css";
 
 const projects = [
   {
+    title: "chord-sling",
+    description: "click and drag to slingshot musical shapes around the screen. "
+     + "when shapes are close enough together, they activate their sounds, creating a chord. "
+     + "play with different pitches, positions, browser sizes, wave types, and more!",
+    image: "chord-sling.png",
+    link: "https://joon-ko.github.io/chord-sling/",
+    github: "https://github.com/joon-ko/chord-sling"
+  },
+  {
     title: "interactive spotify",
     description: "an interactive audio-visualization of your most liked spotify songs, or any playlist in your library. "
      + "uses the <a href='https://developer.spotify.com/documentation/web-api/'>spotify api</a>. "
