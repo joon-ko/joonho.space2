@@ -12,10 +12,10 @@ class About extends React.Component {
             my current passion is to make things that intersect software, language, music, and games.
           </div>
           <div class="paragraph">
-            lately, i've been spending a quiet quarantine in my hometown of huntington, new york.
-            i just moved to cambridge, massachusetts, where i'll start work as a full-stack engineer
-            at <a href="https://tulip.co/">tulip</a>, working remote.
-            i'm on page 300 of <i>infinite jest</i>, building ikea furniture, and trying to get out and run more.
+            lately, i just moved to cambridge, massachusetts, a return to a city i'm already familiar with,
+            which feels reassuring. i'll start work as a full-stack engineer at <a href="https://tulip.co/">tulip</a>
+            soon, working remote. i'm on page 300 of <i>infinite jest</i>, building ikea furniture,
+            and trying to run more.
           </div>
         </div>
       </div>
