@@ -13,9 +13,9 @@ class About extends React.Component {
           </div>
           <div class="paragraph">
             lately, i've been spending a quiet quarantine in my hometown of huntington, new york.
-            i'm moving to cambridge, MA in july, where i'll start work as a full-stack engineer
+            i just moved to cambridge, massachusetts, where i'll start work as a full-stack engineer
             at <a href="https://tulip.co/">tulip</a>, working remote.
-            i'm on page 300 of <i>infinite jest</i>, learning typescript, and trying to get out and hike more.
+            i'm on page 300 of <i>infinite jest</i>, building ikea furniture, and trying to get out and run more.
           </div>
         </div>
       </div>
